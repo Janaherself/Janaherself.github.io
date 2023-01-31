@@ -22,7 +22,7 @@ a {
 }
 
 #a {
-	color: #cadee8;
+	color: #4C719d;
 }
 
 #c {
@@ -42,7 +42,7 @@ a {
 }
 
 @keyframes change {
-    	0%  { color:  #cadee8; }
-    	50% { color:  #cadee8; }
+    	0%  { color:  #4C719d; }
+    	50% { color:  #4C719d; }
     	99% { color: black; }
 }
