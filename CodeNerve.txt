@@ -1,7 +1,7 @@
 <span id="a">jana@jana</span>:<span id="b">~</span><span id="c">$</span> cd Janaherself/Aboutme
 <span id="a">jana@jana</span>:<span id="b">~</span><span id="c">$</span> cat janaherself.txt<br><br>
 <p>My favorite code quote, "<span id="k">I Deeply Hate HTML,<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Shakesbear.</span>"<br></p>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Shakesbear.</span>"<br></p>
 
 Hey There! This is just a test of a portflio website in the skin of a terminal.
 <p>You can introduce yourself here. <br/> no thanks i dont want to.</p>
