@@ -6,7 +6,6 @@
 Hey There! I'm jana, as u can tell!.<br> This is just a test of a portflio website in the skin of a terminal.
 <p>I didn't build this from scratch but i completely respect who did 🥰 </p>
 <p>Find my authentic portfolio at <a href="https://www.github.com/Janaherself"> Github</a>. <br>that one was 100% made by me!</p>
-
 <p>You can, if u want, connect with me on <a href="https://www.linkedin.com/in/jana-abusaa"> linkedin</a>.</p>
 <p>Feel free to, with absolutely no pressure, follow me on <br> <a href="https://instagram.com/Janaherselff">Instagram</a>.</p>
 
