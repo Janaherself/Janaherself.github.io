@@ -1,14 +1,15 @@
 <span id="a">jana@jana</span>:<span id="b">~</span><span id="c">$</span> cd Janaherself/Aboutme
 <span id="a">jana@jana</span>:<span id="b">~</span><span id="c">$</span> cat janaherself.txt<br><br>
 <p>My favorite code quote, "<span id="k">I Deeply Hate HTML,<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Shakesbear.</span>"<br></p>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Abusaa.</span>"<br></p>
 
-Hey There! This is just a test of a portflio website in the skin of a terminal.
-<p>You can introduce yourself here. <br/> no thanks i dont want to.</p>
-<p>You cannot connect with me on <a href="https://www.linkedin.com/in/jana-abusaa"> linkedin</a>.</p>
-<p>I'm jana, as u can tell!.<br></p>
-<p>Feel free to not to follow me on: <br> <a href="https://instagram.com/Janaherselff">Instagram</a> and <a href="https://twitter.com/Janaherself">Twitter</a>.</p>
+Hey There! I'm jana, as u can tell!.<br> This is just a test of a portflio website in the skin of a terminal.
+<p>I didn't build this from scratch but i completely respect who did 🥰 </p>
+<p>Find my authentic portfolio at <a href="https://www.github.com/Janaherself"> Github</a>. <br>that one was 100% made by me! <br></p>
 
-do not feel free to send me an email at <a href="jana.abusaa@gmail.com">Email</a>.
+<p>You can, if u want, connect with me on <a href="https://www.linkedin.com/in/jana-abusaa"> linkedin</a>.</p>
+<p>Feel free to, with absolutely no pressure, follow me on: <br> <a href="https://instagram.com/Janaherselff">Instagram</a></p>
+
+you can send me an email at <a href="jana.abusaa@gmail.com">Email</a>, if u really need to.
 
 <p>Cheers!</p>
